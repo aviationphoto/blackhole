@@ -10,7 +10,11 @@
 # ===================================================================
 
 # == Adware  ========================================================
-0.0.0.0 click.hotlog.ru
 0.0.0.0 secureads.g.doubleclick.net
-0.0.0.0 tubemov.com
+0.0.0.0 edge.fullstory.com
 0.0.0.0 www.gammaentertainment.com
+0.0.0.0 click.hotlog.ru
+0.0.0.0 stats.hprofits.com
+0.0.0.0 de.ioam.de
+0.0.0.0 a.realsrv.com
+0.0.0.0 tubemov.com
