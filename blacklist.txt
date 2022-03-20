@@ -1,0 +1,12 @@
+# Host file to block ads, tracking, etc.
+#
+# This list is not intended to be a complete blocklist, but an additional list to supplement the other blocklists I use.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/aviationphoto/blackhole/main/blacklist.txt
+# Homepage: https://github.com/aviationphoto/blackhole
+# Release: https://github.com/aviationphoto/blackhole/releases
+# Licence: https://github.com/aviationphoto/blackhole/blob/main/LICENSE
+# Updates: occasionally on demand
+# ===================================================================
+
+# == Adware  ========================================================
