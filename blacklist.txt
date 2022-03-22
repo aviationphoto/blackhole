@@ -6,7 +6,7 @@
 # Homepage: https://github.com/aviationphoto/blackhole
 # Release: https://github.com/aviationphoto/blackhole/releases
 # Licence: https://github.com/aviationphoto/blackhole/blob/main/LICENSE
-# Updates: occasionally on demand
+# Updates: occasionally on demand 
 # ===================================================================
 
 # == Adware  ========================================================
