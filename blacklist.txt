@@ -9,20 +9,19 @@
 # Updates: occasionally on demand 
 # ===================================================================
 
+# Note, that we only put rules that block full domains here and not URL parts.
+
+# Good: ||domain.com^
+# Bad:  ||domain.com/banner.jpg
+# Bad:  ||subdomain.domain.com^
+
 # == Adware  ========================================================
-0.0.0.0 secureads.g.doubleclick.net
-0.0.0.0 beta.fapine.com
-0.0.0.0 edge.fullstory.com
-0.0.0.0 www.gammaentertainment.com
-0.0.0.0 click.hotlog.ru
-0.0.0.0 stats.hprofits.com
-0.0.0.0 de.ioam.de
-0.0.0.0 ippen.media
-0.0.0.0 cdn.luyten-98c.com
-0.0.0.0 a.montkyodo.top
-0.0.0.0 a.realsrv.com
-0.0.0.0 smartcj.com
-0.0.0.0 tubemov.com
-0.0.0.0 usercentrics.eu
-0.0.0.0 pt.wmptctl.com
-0.0.0.0 zenfield.pro
+|| fapine.com^
+|| gammaentertainment.com^
+|| ioam.de^
+|| ippen.media^
+|| montkyodo.top^
+|| smartcj.com^
+|| usercentrics.eu^
+|| wmptctl.com^
+|| zenfield.pro^
