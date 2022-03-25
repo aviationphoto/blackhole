@@ -17,9 +17,12 @@
 0.0.0.0 click.hotlog.ru
 0.0.0.0 stats.hprofits.com
 0.0.0.0 de.ioam.de
+0.0.0.0 ippen.media
 0.0.0.0 cdn.luyten-98c.com
 0.0.0.0 a.montkyodo.top
 0.0.0.0 a.realsrv.com
 0.0.0.0 smartcj.com
 0.0.0.0 tubemov.com
+0.0.0.0 usercentrics.eu
 0.0.0.0 pt.wmptctl.com
+0.0.0.0 zenfield.pro
