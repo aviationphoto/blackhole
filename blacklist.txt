@@ -16,12 +16,12 @@
 # Bad:  ||subdomain.domain.com^
 
 # == Adware  ========================================================
-|| fapine.com^
-|| gammaentertainment.com^
-|| ioam.de^
-|| ippen.media^
-|| montkyodo.top^
-|| smartcj.com^
-|| usercentrics.eu^
-|| wmptctl.com^
-|| zenfield.pro^
+||fapine.com^
+||gammaentertainment.com^
+||ioam.de^
+||ippen.media^
+||montkyodo.top^
+||smartcj.com^
+||usercentrics.eu^
+||wmptctl.com^
+||zenfield.pro^
