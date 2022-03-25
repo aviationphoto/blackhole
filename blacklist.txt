@@ -25,3 +25,4 @@
 ||usercentrics.eu^
 ||wmptctl.com^
 ||zenfield.pro^
+||evil.com^
