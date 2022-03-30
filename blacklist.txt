@@ -13,16 +13,24 @@
 
 # Good: ||domain.com^
 # Bad:  ||domain.com/banner.jpg
-# Bad:  ||subdomain.domain.com^
 
-# == Adware  ========================================================
+# ===================================================================
+||appsflyer.com^
+||embed.ly^
 ||fapine.com^
 ||gammaentertainment.com^
+||googleadservices.com^
+||imasdk.googleapis.com^
+||growth-pa.googleapis.com^
+||highwebmedia.com^
 ||ioam.de^
 ||ippen.media^
 ||montkyodo.top^
+||pastebin.com^
+||playbuzz.com^
+||privacy-center.org^
 ||smartcj.com^
 ||usercentrics.eu^
+||visitgate.com^
 ||wmptctl.com^
 ||zenfield.pro^
-||evil.com^
