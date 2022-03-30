@@ -1,0 +1,18 @@
+# Whitelisted Ressouces
+#
+# This list is not intended to be a complete blocklist, but an additional list to supplement the other blocklists I use.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/aviationphoto/blackhole/main/whitelist.txt
+# Homepage: https://github.com/aviationphoto/blackhole
+# Release: https://github.com/aviationphoto/blackhole/releases
+# Licence: https://github.com/aviationphoto/blackhole/blob/main/LICENSE
+# Updates: occasionally on demand 
+# ===================================================================
+
+# Note, that we only put rules that block full domains here and not URL parts.
+
+# Good: ||domain.com^
+# Bad:  ||domain.com/banner.jpg
+
+# ===================================================================
+@@||www.mywot.com^
